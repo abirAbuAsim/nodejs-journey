@@ -1,0 +1,23 @@
+IIFE => Immediately Invoked Function Expression
+
+Summary:
+
+Step 1:
+Think of a normal function definition,
+
+function normalPrintFunction(message) {
+    console.log(message)
+}
+
+normalPrintFunction('This is a message');
+
+
+Articles:
+
+
+1. 
+https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-stop-feeling-iffy-about-using-an-iife-7b0292aba174
+
+2. 
+https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
